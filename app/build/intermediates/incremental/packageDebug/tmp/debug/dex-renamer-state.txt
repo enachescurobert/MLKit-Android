@@ -1,0 +1,4 @@
+#Sun Jan 12 23:18:54 EET 2020
+base.0=/Users/robertenachescu/Desktop/Android/Java/final/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
